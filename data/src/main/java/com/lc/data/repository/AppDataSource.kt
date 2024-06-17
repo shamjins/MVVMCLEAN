@@ -2,7 +2,7 @@ package com.lc.data.repository
 
 import com.lc.data.models.CompanyEntity
 
-interface CompanyDataSource {
+interface AppDataSource {
     //Remote
 
     //Local
