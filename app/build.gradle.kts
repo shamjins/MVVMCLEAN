@@ -83,8 +83,6 @@ dependencies {
     kapt(libs.hilt.android.compiler)
 
     /*Jetpack components start*/
-    val lifecycle_version = "2.8.2"
-    val arch_version = "2.2.0"
 
     // ViewModel
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
